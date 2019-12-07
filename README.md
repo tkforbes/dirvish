@@ -1,9 +1,9 @@
 # Ported from servercontainers/dirvish
 
 This repo was created from servercontainers/dirvish but extended to include
-oven-needed utilities of postgresql-client and mariadb-client. The image
-is built from debian:buster as the debian:jessie of the original was
-too old; it picked-up outdated versions of the sql clients.
+often-needed utilities of postgresql-client and mariadb-client. The image
+is built from debian:buster as the debian:jessie original was
+too old and provided outdated versions of the sql clients.
 
 The following text comes from the original README.md...
 
